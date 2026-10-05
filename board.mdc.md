@@ -5,7 +5,7 @@ title: Ship the signup flow
 
 # Ship the signup flow
 
-A normal GitHub checklist — and a task graph the `mdc` CLI (and your agents) can query and edit. Open it on GitHub to see it render as real checkboxes.
+A normal GitHub checklist, and a task graph the `mdc` CLI (and your agents) can query and edit. Open it on GitHub to see it render as real checkboxes.
 
 ## Design
 - [x] Agree on the flow {#design @sam done=2026-09-10}
